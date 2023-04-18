@@ -6,6 +6,14 @@ The fore finger acts as the cursor, and its movement controls the movement of th
 To perform a click, the system detects the distance between the fore finger and the thumb, and if they are together, it will execute a click. 
 Additionally, a smoothness factor was implemented to reduce the shakiness of the mouse movement.
 
+## Preview
+![Assets](Assets/1.jpeg)
+
+![Assets](Assets/2.jpeg)
+
+![Assets](Assets/3.gif)
+
+
 ## Requirements:
 Following modules need to be installed for it to work properly:
 
@@ -13,3 +21,5 @@ Following modules need to be installed for it to work properly:
 - Mediapipe
 - Numpy
 - Pyautogui
+
+
